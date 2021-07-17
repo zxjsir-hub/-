@@ -5,7 +5,7 @@ import time
 # 行政区域查询 https://lbs.amap.com/api/webservice/guide/api/district
 
 # 高德web key
-key = '1bda9d16a5311433fe144e9fe6049084'  # 高德地图API
+key = ''  # 高德地图API
 # 只支持单个关键词语搜索关键词支持,行政区名称、citycode、adcode
 
 while True:
